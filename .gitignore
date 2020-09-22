@@ -1,0 +1,5 @@
+papago/
+webdriver/
+credential/
+*.csv
+*.log
